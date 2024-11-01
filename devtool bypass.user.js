@@ -2,7 +2,9 @@
 // @name         DevTools Bypass
 // @name:vi      Bỏ Qua Chặn DevTools
 // @name:zh-CN   开发工具限制绕过
-// @namespace    https://greasyfork.org/vi/users/1195312-renji-yuusei
+// @namespace    https://github.com/RenjiYuusei/Devtool
+// @homepage     https://github.com/RenjiYuusei/Devtool
+// @copyright    Yuusei | 2024
 // @version      2.3
 // @description  Bypass for website restrictions on DevTools with improved protection
 // @description:vi Bỏ qua các hạn chế của trang web về DevTools với bảo vệ được cải tiến
